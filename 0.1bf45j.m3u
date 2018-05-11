@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="beta0.1 ", Lista 0.1bf45j
+""
+#EXTINF:-1 tvg-logo="https://image.freepik.com/icones-gratis/relogio-de-24-horas_318-32741.png" group-title="CANAIS OFF AVISE AGORA", ATUALIZADO 11/05/2018 19:48h
+""
+#EXTINF:-1 tvg-logo="" group-title="Suporte 81-99859-0262",Suporte 81-99859-0262
+""
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Band Sports SD
 http://apk.goo.ac:8081/live/9/playlist.m3u8
@@ -11,3 +17,6 @@ http://apk.goo.ac:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Fox Sports SD
 http://apk.goo.ac:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
