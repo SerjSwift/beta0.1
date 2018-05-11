@@ -1,9 +1,0 @@
-#EXTM3U
-
-#PLAYLISTV: pltv-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/images/lists/f3851db6bb5ce4f3afb6682146a48156.jpg" pltv-name="Konigsreuter" pltv-description="Lista IPTV" pltv-cover="https://minhalista-storage.nyc3.digitaloceanspaces.com/images/lists/f3851db6bb5ce4f3afb6682146a48156.jpg" pltv-author="sergio" pltv-email="sergioibtzmelo@outlook.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",Globo
-http://apk.goo.ac:8081/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Esporte Interativo BR
-http://apk.goo.ac:8081/live/2/playlist.m3u8
