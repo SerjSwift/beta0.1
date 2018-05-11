@@ -1,10 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",TEST
-http://apk.goo.ac:8081/live/4/playlist.m3u8
+http://apk.goo.ac:8081/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Globo SD
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Esporte Interativo SD
 http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Fox Sports SD
+http://apk.goo.ac:8081/live/4/playlist.m3u8
