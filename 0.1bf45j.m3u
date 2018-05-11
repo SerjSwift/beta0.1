@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="beta0.1 ", Lista 0.1bf45j by Sergio
-""
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="beta0.1 ", Lista 0.1bf45j by Sergio
+https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg
+
 #EXTINF:-1 tvg-logo="https://image.freepik.com/icones-gratis/relogio-de-24-horas_318-32741.png" group-title="CANAIS OFF AVISE AGORA", ATUALIZADO 11/05/2018 19:48h
-""
+https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg
+
 #EXTINF:-1 tvg-logo="" group-title="Suporte 81-99859-0262",Suporte 81-99859-0262
-""
+https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",Band Sports SD
 http://apk.goo.ac:8081/live/9/playlist.m3u8
