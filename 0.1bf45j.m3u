@@ -31,7 +31,7 @@ http://185.210.216.145:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=636537&
 http://185.210.216.145:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=626020&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDE6NTA6MDQgQU0maGFzaF92YWx1ZT04YWRWMjJScDcrRG5KNkhvcHNFMEFRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",FOX
-http://89.46.101.200:8081/live/fox/chunks.m3u8?nimblesessionid=225418&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDE6NTI6MzcgQU0maGFzaF92YWx1ZT1vcjhwbzBzK0JmeGNjNHpFelF2OWxRPT0mdmFsaWRtaW51dGVzPTEw
+http://89.46.101.200:8081/live/fox/chunks.m3u8?nimblesessionid=250493&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDk6MTI6NDYgUE0maGFzaF92YWx1ZT0rVzB4MVVQUWhCSXRKdXU5b2NYSEV3PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK"  tvg-logo="https://goo.gl/oVyeZ2" group-title="Canal de televisão" , CARTOON NETWORK
 http://89.46.101.200:8081/live/brlive_0028/chunks.m3u8?nimblesessionid=181080&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6Mjg6NDIgQU0maGFzaF92YWx1ZT1VblloVnB2QlJ2ZUZWQjdoK3RoWFdnPT0mdmFsaWRtaW51dGVzPTEw
