@@ -25,7 +25,7 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",NICKELODEON SD
-http://80.82.78.192:8088/live/tvnickaovivo/playlist.m3u8?id=22597&wowzasessionid=7892783727&pk=a87f6efcd0cc5d3e382a2208f52334e936ab38f1e0b11bb0572f27b8f94f8fe7
+http://185.210.216.145:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=636537&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDk6MDk6MjMgUE0maGFzaF92YWx1ZT1TeHhxSEJMaTMzVzF4bVZjRWU2dXpRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal de televisão",NICKELODEON HD
 http://185.210.216.145:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=626020&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDE6NTA6MDQgQU0maGFzaF92YWx1ZT04YWRWMjJScDcrRG5KNkhvcHNFMEFRPT0mdmFsaWRtaW51dGVzPTEw
